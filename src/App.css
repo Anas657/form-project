@@ -1,0 +1,39 @@
+
+
+
+.form{
+width: 250px;
+background: rgb(243, 182, 182);
+padding: 20px;
+margin: 0 auto;
+border-radius: 25px;
+
+
+}
+.form-group{
+margin-bottom: 6px;
+  
+}
+
+.form-group label{
+  display: block;
+  margin-bottom: 6px;
+  
+}
+
+.form-group input{
+  border: solid 1px yellow;
+  width: 100%;
+  height: 20px;
+  border-radius: 30px;
+  
+}
+button{
+width: 150px;
+height: 45px;
+color: #fff;
+background: rgb(193, 193, 204);
+border-radius: 100px;
+border: none;
+
+}
